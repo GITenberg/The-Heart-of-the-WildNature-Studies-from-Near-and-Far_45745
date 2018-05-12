@@ -1,0 +1,33 @@
+_repo: The-Heart-of-the-WildNature-Studies-from-Near-and-Far_45745
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45745-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bensusan, S. L. (Samuel Levy)
+    alias: Bensusan, Samuel Levy
+    birthdate: 1872
+    deathdate: 1958
+    gutenberg_agent_id: '34029'
+    url: http://www.gutenberg.org/2009/agents/34029
+description: ''
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45745'
+  lccn: '91158348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+tableOfContents: The golden eagle -- The badger -- The camel -- The red grouse --
+  The roebuck -- The water-rat -- The flamingo -- Hob, the ferret -- The fighting
+  bull -- The cuckoo -- The seal -- The giraffe -- The white stork -- The wild boar
+  -- The story of a slave.
+title: 'The Heart of the Wild: Nature Studies from Near and Far'
+url: http://www.gutenberg.org/ebooks/45745

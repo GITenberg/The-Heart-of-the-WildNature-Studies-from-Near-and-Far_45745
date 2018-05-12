@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34029'
     url: http://www.gutenberg.org/2009/agents/34029
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45745#The-Heart-of-the-WildNature-Studies-from-Near-and-Far
 gutenberg_issued: '2014-05-24'
 gutenberg_type: Text
 identifiers:
